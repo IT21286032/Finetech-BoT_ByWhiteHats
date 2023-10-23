@@ -33,12 +33,6 @@ st.sidebar.write("Have questions? Ask our chatbot here or visit our [website](#)
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
-# Display chat history
-for message in st.session_state.chat_history:
-    role, content = message["role"], message["content"]
-    with st.chat_message(role):
-        st.write(content)
-
 # Accept user input
 user_input = st.chat_input("Type your question...")
 if user_input:
@@ -48,12 +42,17 @@ if user_input:
     # Generate bot response
     response = generate_response(user_input)
     
-    # Display bot's response
-    with st.chat_message("assistant"):
-        st.write(response)
-    
     # Add bot response to chat history
     st.session_state.chat_history.append({"role": "assistant", "content": response})
+
+# Display chat history
+for message in st.session_state.chat_history:
+    role, content = message["role"], message["content"]
+    with st.chat_message(role):
+        if role == "user":
+            st.write(f"👤 **You**: {content}")
+        else:
+            st.write(f"🤖 **FineTech Assistant**: {content}")
 
 # Footer branding
 st.write("---")
