@@ -1,0 +1,301 @@
+UserQuery,Intent
+How much is the Samsung Galaxy S21?,PriceInquiry
+Tell me more about the Samsung Galaxy S21.,ProductDetails
+Do you have the Samsung Galaxy S21 in stock?,ProductAvailability
+How much is the Apple iPhone 13?,PriceInquiry
+Tell me more about the Apple iPhone 13.,ProductDetails
+Do you have the Apple iPhone 13 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop.,ProductDetails
+Do you have the Dell Inspiron Laptop in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones in stock?,ProductAvailability
+How much is the Apple Watch Series 7?,PriceInquiry
+Tell me more about the Apple Watch Series 7.,ProductDetails
+Do you have the Apple Watch Series 7 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV.,ProductDetails
+Do you have the Sony 55 inch 4K TV in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR.,ProductDetails
+Do you have the Nikon D3500 DSLR in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite.,ProductDetails
+Do you have the Amazon Kindle Paperwhite in stock?,ProductAvailability
+How much is the Apple iPad Air?,PriceInquiry
+Tell me more about the Apple iPad Air.,ProductDetails
+Do you have the Apple iPad Air in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse.,ProductDetails
+Do you have the Logitech G Pro Mouse in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 1?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 1.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 1 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 1?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 1.,ProductDetails
+Do you have the Apple iPhone 13 Variant 1 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 1?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 1.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 1 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 1?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 1.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 1 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 1?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 1.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 1 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 1?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 1.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 1 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 1?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 1.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 1 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 1?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 1.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 1 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 1?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 1.,ProductDetails
+Do you have the Apple iPad Air Variant 1 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 1?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 1.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 1 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 2?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 2.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 2 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 2?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 2.,ProductDetails
+Do you have the Apple iPhone 13 Variant 2 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 2?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 2.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 2 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 2?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 2.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 2 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 2?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 2.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 2 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 2?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 2.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 2 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 2?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 2.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 2 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 2?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 2.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 2 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 2?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 2.,ProductDetails
+Do you have the Apple iPad Air Variant 2 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 2?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 2.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 2 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 3?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 3.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 3 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 3?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 3.,ProductDetails
+Do you have the Apple iPhone 13 Variant 3 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 3?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 3.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 3 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 3?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 3.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 3 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 3?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 3.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 3 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 3?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 3.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 3 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 3?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 3.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 3 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 3?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 3.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 3 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 3?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 3.,ProductDetails
+Do you have the Apple iPad Air Variant 3 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 3?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 3.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 3 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 4?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 4.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 4 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 4?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 4.,ProductDetails
+Do you have the Apple iPhone 13 Variant 4 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 4?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 4.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 4 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 4?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 4.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 4 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 4?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 4.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 4 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 4?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 4.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 4 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 4?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 4.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 4 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 4?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 4.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 4 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 4?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 4.,ProductDetails
+Do you have the Apple iPad Air Variant 4 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 4?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 4.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 4 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 5?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 5.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 5 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 5?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 5.,ProductDetails
+Do you have the Apple iPhone 13 Variant 5 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 5?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 5.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 5 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 5?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 5.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 5 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 5?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 5.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 5 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 5?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 5.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 5 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 5?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 5.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 5 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 5?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 5.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 5 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 5?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 5.,ProductDetails
+Do you have the Apple iPad Air Variant 5 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 5?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 5.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 5 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 6?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 6.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 6 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 6?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 6.,ProductDetails
+Do you have the Apple iPhone 13 Variant 6 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 6?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 6.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 6 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 6?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 6.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 6 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 6?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 6.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 6 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 6?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 6.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 6 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 6?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 6.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 6 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 6?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 6.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 6 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 6?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 6.,ProductDetails
+Do you have the Apple iPad Air Variant 6 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 6?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 6.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 6 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 7?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 7.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 7 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 7?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 7.,ProductDetails
+Do you have the Apple iPhone 13 Variant 7 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 7?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 7.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 7 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 7?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 7.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 7 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 7?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 7.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 7 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 7?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 7.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 7 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 7?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 7.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 7 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 7?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 7.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 7 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 7?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 7.,ProductDetails
+Do you have the Apple iPad Air Variant 7 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 7?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 7.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 7 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 8?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 8.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 8 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 8?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 8.,ProductDetails
+Do you have the Apple iPhone 13 Variant 8 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 8?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 8.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 8 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 8?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 8.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 8 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 8?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 8.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 8 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 8?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 8.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 8 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 8?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 8.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 8 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 8?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 8.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 8 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 8?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 8.,ProductDetails
+Do you have the Apple iPad Air Variant 8 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 8?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 8.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 8 in stock?,ProductAvailability
+How much is the Samsung Galaxy S21 Variant 9?,PriceInquiry
+Tell me more about the Samsung Galaxy S21 Variant 9.,ProductDetails
+Do you have the Samsung Galaxy S21 Variant 9 in stock?,ProductAvailability
+How much is the Apple iPhone 13 Variant 9?,PriceInquiry
+Tell me more about the Apple iPhone 13 Variant 9.,ProductDetails
+Do you have the Apple iPhone 13 Variant 9 in stock?,ProductAvailability
+How much is the Dell Inspiron Laptop Variant 9?,PriceInquiry
+Tell me more about the Dell Inspiron Laptop Variant 9.,ProductDetails
+Do you have the Dell Inspiron Laptop Variant 9 in stock?,ProductAvailability
+How much is the Sony WH-1000XM4 Headphones Variant 9?,PriceInquiry
+Tell me more about the Sony WH-1000XM4 Headphones Variant 9.,ProductDetails
+Do you have the Sony WH-1000XM4 Headphones Variant 9 in stock?,ProductAvailability
+How much is the Apple Watch Series 7 Variant 9?,PriceInquiry
+Tell me more about the Apple Watch Series 7 Variant 9.,ProductDetails
+Do you have the Apple Watch Series 7 Variant 9 in stock?,ProductAvailability
+How much is the Sony 55 inch 4K TV Variant 9?,PriceInquiry
+Tell me more about the Sony 55 inch 4K TV Variant 9.,ProductDetails
+Do you have the Sony 55 inch 4K TV Variant 9 in stock?,ProductAvailability
+How much is the Nikon D3500 DSLR Variant 9?,PriceInquiry
+Tell me more about the Nikon D3500 DSLR Variant 9.,ProductDetails
+Do you have the Nikon D3500 DSLR Variant 9 in stock?,ProductAvailability
+How much is the Amazon Kindle Paperwhite Variant 9?,PriceInquiry
+Tell me more about the Amazon Kindle Paperwhite Variant 9.,ProductDetails
+Do you have the Amazon Kindle Paperwhite Variant 9 in stock?,ProductAvailability
+How much is the Apple iPad Air Variant 9?,PriceInquiry
+Tell me more about the Apple iPad Air Variant 9.,ProductDetails
+Do you have the Apple iPad Air Variant 9 in stock?,ProductAvailability
+How much is the Logitech G Pro Mouse Variant 9?,PriceInquiry
+Tell me more about the Logitech G Pro Mouse Variant 9.,ProductDetails
+Do you have the Logitech G Pro Mouse Variant 9 in stock?,ProductAvailability
