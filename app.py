@@ -6,7 +6,7 @@ from irwa_fine_tech import preprocess_text, extract_product_name, generate_respo
 # Load trained model and data
 intent_classifier = joblib.load('model/intent_classifier.pkl')
 product_df = pd.read_csv('dataset/realistic_product_data.csv')
-conversational_df = pd.read_csv('dataset/realistic_conversational_data.csv')
+conversational_df = pd.read_csv('dataset/realistic_conversational_data1.csv')
 
 # Streamlit app interface configuration
 st.set_page_config(
