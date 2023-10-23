@@ -19,13 +19,13 @@ st.set_page_config(
 # Design header
 col1, col2, col3 = st.columns([1,6,1])
 with col2:
-    st.image("image/logo1.png", width=200)
+    st.image("images/logo1.png", width=200)
     st.title('FineTech Assistant 🤖')
     st.write("Welcome to FineTech! Your tech shopping assistant. Ask me anything!")
 
 # Sidebar with company info and branding
 st.sidebar.title("FineTech")
-st.sidebar.image("image/logo2.png", width=200)
+st.sidebar.image("images/logo2.png", width=200)
 st.sidebar.write("FineTech is your one-stop destination for all tech products. From the latest smartphones to cutting-edge laptops, we've got it all!")
 st.sidebar.write("Have questions? Ask our chatbot here or visit our [website](#)!")  # Replace # with your website link
 
