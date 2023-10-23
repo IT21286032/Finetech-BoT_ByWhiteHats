@@ -14,8 +14,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 
 # Loading the datasets
-product_df = pd.read_csv('realistic_product_data.csv')
-conversational_df = pd.read_csv('realistic_conversational_data.csv')
+product_df = pd.read_csv('dataset/realistic_product_data.csv')
+conversational_df = pd.read_csv('dataset/realistic_conversational_data.csv')
 
 def preprocess_text(text):
     tokens = word_tokenize(text.lower())
